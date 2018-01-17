@@ -5,7 +5,6 @@ body {
 
 .navi-size {
     font-size: 40px;
-    width: 85%;
 }
 
 .bgimg {
@@ -29,10 +28,11 @@ body {
     }
 }
 
-@media (max-width:700px) {
+@media (max-width:699px) {
     #collapse1 {
         display: none;
     }
+
 }
 table.size {
     width: 85%;
@@ -46,3 +46,4 @@ table.center {
 .elise {
     width: 263px;
 }
+
