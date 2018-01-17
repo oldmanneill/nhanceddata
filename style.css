@@ -1,0 +1,48 @@
+body {
+    background: #e1f8e7;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+.navi-size {
+    font-size: 40px;
+    width: 85%;
+}
+
+.bgimg {
+    background-image: url(keyboard-background.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+.blurb-top {
+    font-size: 45px;
+    width: 95%;
+}
+
+.blurb-bottom {
+    font-size: 25px;
+}
+
+@media (min-width:700px) {
+    #collapse2 {
+        display: none;
+    }
+}
+
+@media (max-width:700px) {
+    #collapse1 {
+        display: none;
+    }
+}
+table.size {
+    width: 85%;
+}
+table.center {
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.elise {
+    width: 263px;
+}
