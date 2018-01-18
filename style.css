@@ -1,10 +1,11 @@
 body {
     background: #e1f8e7;
     font-family: 'Barlow Condensed', sans-serif;
+    padding-top: 5rem;
 }
 
 .navi-size {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .bgimg {
@@ -14,12 +15,14 @@ body {
 }
 
 .blurb-top {
-    font-size: 45px;
+    font-size: 30px;
     width: 95%;
+        padding-left: 3rem;
+
 }
 
 .blurb-middle {
-    font-size: 25px;
+    font-size: 22px;
 }
 
 .blurb-bottom {
