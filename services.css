@@ -1,0 +1,63 @@
+body {
+    background: #e1f8e7;
+    font-family: 'Barlow Condensed', sans-serif;
+    padding-top: 5rem;
+}
+
+.navi-size {
+    font-size: 30px;
+}
+
+.bgimg {
+    background-image: url(keyboard-background.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+.blurb-top {
+    font-size: 30px;
+    width: 95%;
+    padding-left: 3rem;
+}
+
+.blurb-middle {
+    font-size: 22px;
+}
+
+.blurb-bottom {
+    font-size: 18px;
+}
+
+@media (min-width:700px) {
+    #collapse2 {
+        display: none;
+    }
+}
+
+@media (max-width:699px) {
+    #collapse1 {
+        display: none;
+    }
+
+}
+
+.ending {
+    background-color: white;
+}
+
+div.ending {
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.elise {
+    width: 263px;
+}
+
+table-bottom,
+td,
+tr,
+th {
+    border: 1px solid;
+    padding: 6px;
+}
